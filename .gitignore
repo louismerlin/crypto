@@ -106,3 +106,7 @@ venv.bak/
 # sage
 .sage
 .local
+
+# special text files
+*-answers.txt
+*-parameters.txt
