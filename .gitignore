@@ -110,3 +110,7 @@ venv.bak/
 # special text files
 *-answers.txt
 *-parameters.txt
+
+# Wierd file
+src/homework02/c
+src/homework03/c
